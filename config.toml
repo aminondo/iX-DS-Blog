@@ -11,7 +11,7 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "Blogging my experience in iX Data Science!"
-  logo = "img/avatar-icon.png"
+  logo = "img/profile.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -47,8 +47,5 @@ pygmentCodeFences = true
     url = "about/"
     weight = 3
 
-[[menu.main]]
-    name = "Contact"
-    url = "contact/"
-    weight = 2
+
 
