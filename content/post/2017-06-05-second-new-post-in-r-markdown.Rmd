@@ -1,0 +1,13 @@
+---
+title: Second new post in R Markdown
+author: Antonio Minondo
+date: '2017-06-05'
+slug: second-new-post-in-r-markdown
+categories: []
+tags: []
+---
+
+```{r test}
+summary(mtcars)
+
+```
