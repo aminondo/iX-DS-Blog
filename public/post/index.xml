@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>History of the World</title>
+      <link>/post/history-of-the-world/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/history-of-the-world/</guid>
+      <description>Scrolling through Tableau Public I found this really interesting visualization about the history of the world. Check it out.
+credits:
+htmltools::includeHTML(&amp;quot;embedHist.html&amp;quot;)  </description>
+    </item>
     
     <item>
       <title>First new post in plain Markdown</title>
@@ -28,6 +39,15 @@
       
       <guid>/post/second-new-post-in-r-markdown/</guid>
       <description>summary(mtcars) ## mpg cyl disp hp ## Min. :10.40 Min. :4.000 Min. : 71.1 Min. : 52.0 ## 1st Qu.:15.43 1st Qu.:4.000 1st Qu.:120.8 1st Qu.: 96.5 ## Median :19.20 Median :6.000 Median :196.3 Median :123.0 ## Mean :20.09 Mean :6.188 Mean :230.7 Mean :146.7 ## 3rd Qu.:22.80 3rd Qu.:8.000 3rd Qu.:326.0 3rd Qu.:180.0 ## Max. :33.90 Max. :8.000 Max. :472.0 Max. :335.0 ## drat wt qsec vs ## Min. :2.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/embedhist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/embedhist/</guid>
+      <description> var divElement = document.getElementById(&#39;viz1496739835219&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;1184px&#39;;vizElement.style.height=&#39;3269px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); </description>
     </item>
     
   </channel>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/history-of-the-world/</loc>
+    <lastmod>2017-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2017-06-05T13:03:09+02:00</lastmod>
   </url>
@@ -18,8 +23,12 @@
   </url>
   
   <url>
+    <loc>/post/embedhist/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +39,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
