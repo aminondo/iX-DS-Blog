@@ -20,7 +20,7 @@
       <guid>/post/history-of-the-world/</guid>
       <description>Scrolling through Tableau Public I found this really interesting visualization about the history of the world. Check it out.
 credits:
-htmltools::includeHTML(&amp;quot;embedHist.html&amp;quot;)  </description>
+ var divElement = document.getElementById(&amp;lsquo;viz1496739835219&amp;rsquo;); var vizElement = divElement.getElementsByTagName(&amp;lsquo;object&amp;rsquo;)[0]; vizElement.style.width=&amp;lsquo;1184px&amp;rsquo;;vizElement.style.height=&amp;lsquo;3269px&amp;rsquo;; var scriptElement = document.createElement(&amp;lsquo;script&amp;rsquo;); scriptElement.src = &amp;lsquo;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement);</description>
     </item>
     
     <item>
