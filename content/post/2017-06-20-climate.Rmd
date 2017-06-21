@@ -1,7 +1,7 @@
 ---
 title: "Climate Change"
 author: "Antonio Minondo"
-date: "6/20/2017"
+date: "2017-06-20"
 output: html_document
 slug: climate-change
 categories: []
