@@ -50,5 +50,15 @@ credits:
       <description> var divElement = document.getElementById(&#39;viz1496739835219&#39;); var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0]; vizElement.style.width=&#39;1184px&#39;;vizElement.style.height=&#39;3269px&#39;; var scriptElement = document.createElement(&#39;script&#39;); scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;; vizElement.parentNode.insertBefore(scriptElement, vizElement); </description>
     </item>
     
+    <item>
+      <title>Climate Change</title>
+      <link>/post/climate-change/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/climate-change/</guid>
+      <description>In this analyis I use the data of World Development Indicators in order to visualize how climate change has progressed in both the United States and the World at large.
+Green House Gases First I compared total green house gases as a percent increase with 1990 being the baseline year. As you can see from the data while the United States has decreased its output of greenhouse emissions from 2004, World aggregate greenhouse emissions continue to increase.</description>
+    </item>
+    
   </channel>
 </rss>
