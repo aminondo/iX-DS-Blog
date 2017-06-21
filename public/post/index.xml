@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Climate Change</title>
+      <link>/post/climate-change/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/climate-change/</guid>
+      <description>In this analyis I use the data of World Development Indicators in order to visualize how climate change has progressed in both the United States and the World at large.
+Green House Gases First I compared total green house gases as a percent increase with 1990 being the baseline year. As you can see from the data while the United States has decreased its output of greenhouse emissions from 2004, World aggregate greenhouse emissions continue to increase.</description>
+    </item>
     
     <item>
       <title>History of the World</title>
